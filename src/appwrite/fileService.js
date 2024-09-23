@@ -52,6 +52,6 @@ export class Service {
     }
 }
 
-const service = new Service()
+const fileService = new Service()
 
-export default service;
+export default fileService;
