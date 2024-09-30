@@ -15,6 +15,7 @@ function Header() {
         {name: "All Posts", slug: "/all-posts", active: authStatus},
         {name: "Add Posts", slug: "/add-posts", active: authStatus},
     ]
+    
 
 
     return ( 
